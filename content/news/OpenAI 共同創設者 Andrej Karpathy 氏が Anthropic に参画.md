@@ -11,7 +11,7 @@ tags:
 ---
 
 今朝、Xのタイムラインを眺めていたらこんなポストがありました。
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Personal update: I&#39;ve joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</p>&mdash; Andrej Karpathy (@karpathy) <a href="https://twitter.com/karpathy/status/2056753169888334312?ref_src=twsrc%5Etfw">May 19, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![](https://x.com/karpathy/status/2056753169888334312?s=20)
 
 
 日本語訳にすると
