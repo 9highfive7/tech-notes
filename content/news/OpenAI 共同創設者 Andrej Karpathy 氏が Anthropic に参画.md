@@ -1,0 +1,59 @@
+---
+title: "OpenAI 共同創設者 Andrej Karpathy 氏が Anthropic に参画"
+date: 2026-05-20
+enableToc: false
+tags:
+  - ai
+  - claude
+  - anthropic
+  - openai
+  - tech-news
+---
+
+今朝、Xのタイムラインを眺めていたらこんなポストがありました。
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Personal update: I&#39;ve joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</p>&mdash; Andrej Karpathy (@karpathy) <a href="https://twitter.com/karpathy/status/2056753169888334312?ref_src=twsrc%5Etfw">May 19, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+日本語訳にすると
+
+> 個人的なご報告です。
+>
+> このたびAnthropicに入社しました。
+>
+> LLMの最前線で過ごすこれからの数年は、特に大きな意味を持つ時期になると考えています。
+>
+> 再びR&Dに戻り、ここのチームに加わることができてとても楽しみです。
+>
+> 教育への情熱は変わらず持ち続けており、いずれその活動も再開するつもりです。
+
+この呟きが大きな話題になっていたんですが、この方の経歴に答えがあります。
+
+https://karpathy.ai/
+
+![[Pasted image 20260520210912.png|527]]
+
+### OpenAI共同創設者でTeslaの元AI責任者 なんです
+
+因みに`Vibe Coding` という言葉の生みの親でもあります。
+
+そんな主人公みたいな人物ですが、
+OpenAI創設者メンバーでありながらライバルであるAnthropicに参画したことで大きな話題になっています。
+
+仕事の内容としては、
+Claudeの中核を担う事前学習チームに加わり、Claude自身を活用して研究開発を加速させる新チームを率いるみたいです。
+
+このニュースを読んだ感想としては、
+先日ChatGPTが個人の金融口座と連携できる「Finances」のプレビューを出したり、
+今日Google I/Oで「Gemini」関連の最新モデルとツール群に関する情報が出てきましたが、
+
+それに匹敵するくらい、今回のAndrej氏がAnthropicに参画は大きなニュースかなと個人的に思いました。
+
+私は普段ClaudeもChatGPTも使用していますが、最近巷では
+
+### Mythosに本腰を入れるためにClaudeは一般ユーザーへの待遇が雑になっている！
+
+なんて声も見かけるので、本当に雑になっているのかはわかりませんが、
+この参画が一般ユーザーに良い影響が出たら嬉しいですね。
+
+Andrej氏に関して調べている中で、いくつも興味深い記事を見つけたので、
+それは今後別の形でまとめていきたいなと思います。
