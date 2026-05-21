@@ -23,8 +23,10 @@ title: Home
 
 ## 🆕 最近の記事
 
-- 📔 [[diary/- 5月20日 活動日記を開始します -]]
+- 🔍 [[hands-on/Obsidian × Claude Code/第2の脳を作ってみる]]
+- 💡 [[Markdownはもう古い？Claude Codeで活きるHTMLの底力]]
 - 💡 [[OpenAI 共同創設者 Andrej Karpathy 氏が Anthropic に参画]]
+- 📔 [[diary/- 5月20日 活動日記を開始します -]]
 
 
 ---
