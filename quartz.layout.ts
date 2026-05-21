@@ -42,8 +42,23 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "📰 最近の記事",
+        limit: 5,
+        showTags: false,
+        filter: (f) => (f.slug ?? "").includes("/"),
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
   ],
 }
 
@@ -64,5 +79,8 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [
+    // 一覧ページ（tags, folders）にもグラフだけ出して回遊性を確保
+    Component.Graph(),
+  ],
 }
