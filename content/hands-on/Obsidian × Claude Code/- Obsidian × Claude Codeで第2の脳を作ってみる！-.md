@@ -63,7 +63,7 @@ tags:
 以下のような感じで進めていこうかなと思います。
 
 1. Obsidian のインストール
-2. Obsidian での各種設定
+2. Obsidian の同期設定
 3. 知識の構築をするためのフォルダ整理
 4. Claude Skills の準備
 5. 元データの収集と wiki の作成
