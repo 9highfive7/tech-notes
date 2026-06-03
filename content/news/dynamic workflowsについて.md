@@ -95,6 +95,6 @@ Claudeがタスクに応じて **専用の実行枠組み（ハーネス）を�
 
 そんな方のために、dynamic workflows についてのHTMLをClaudeに作ってもらいました。
 
-[dynamic workflows.html](https://9highfive7.github.io/claude-artifacts/reports/dynamic%20workflows.html)
+[dynamic workflows.html](https://9highfive7.github.io/claude-artifacts/reports/dynamic-workflows.html)
 
 こちらを見てみてください。
